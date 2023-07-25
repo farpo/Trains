@@ -1,0 +1,11 @@
+name: Trains
+version: 1.0.0
+main: eu.ansquare.trains.Trains
+description: Mob grabber
+author: SasaElele
+website: https://papermc.io
+api-version: 1.19
+commands:
+  trains:
+    description: Gives the linker
+    usage: "Usage: /<command>"
